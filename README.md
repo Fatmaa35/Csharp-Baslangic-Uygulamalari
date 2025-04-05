@@ -1,2 +1,2 @@
-# c# başlangıç uygulamaları
+# c# ders uygulamaları
  
